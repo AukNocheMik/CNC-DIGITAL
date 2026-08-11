@@ -2,7 +2,7 @@
 
 一个基于React + Three.js的桌面CNC刀路可视化演示应用，支持G-code解析、刀路动画演示和深度热力图可视化。
 
-![应用截图](docs/screenshot.png)
+![应用截图](docs/cnc-view.png)
 
 ## 功能特性
 
@@ -110,7 +110,7 @@ CNC-Digital/
 │   ├── main.tsx            # React入口
 │   └── index.css           # 全局样式
 ├── docs/                    # 文档与截图
-│   └── screenshot.png      # 应用截图
+│   └── cnc-view.png        # 应用截图
 ├── public/                  # 静态资源
 ├── index.html              # HTML入口
 ├── vite.config.ts          # Vite配置

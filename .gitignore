@@ -28,4 +28,7 @@ dist-ssr
 .env.local
 .env.production.local
 .env.development.local
-.env.test.local*.png
+.env.test.local
+
+# Temp screenshots in root (keep docs/ screenshots)
+/*.png
